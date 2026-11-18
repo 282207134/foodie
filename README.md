@@ -7,7 +7,7 @@ A Flutter food delivery application built based on Pixso UI designs. This app pr
 ### Authentication Flow
 | Splash | Onboarding | Sign In | Sign Up | Setup |
 |--------|------------|---------|---------|-------|
-| ![Splash](screenshots/splash.png) | ![Onboarding](screenshots/onboarding.png) | ![Sign In](screenshots/signin.png) | ![Sign Up](screenshots/signup.png) | — |
+| ![Splash](screenshots/bluestacks_splash.png) | ![Onboarding](screenshots/onboarding.png) | ![Sign In](screenshots/signin.png) | ![Sign Up](screenshots/signup.png) | — |
 
 ### Main Features
 | Home V1 | Home V2 | Food Detail | Search | Search Results |
